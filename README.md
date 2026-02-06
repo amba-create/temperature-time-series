@@ -33,8 +33,3 @@ Both models passed diagnostic testing and produced forecasts closely tracking ac
 - **Language:** R
 - **Packages:** forecast, tseries, ggplot2, readxl, dplyr
 
-## Files
-
-- `time-series-analysis.md` — Full analysis with code and visualisations
-- `time-series-analysis.Rmd` — Source R Markdown file
-- `time-series-analysis_files/` — Plot images
